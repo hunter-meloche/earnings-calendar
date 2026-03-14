@@ -69,3 +69,5 @@ npm test
 - Revenue surprise analysis
 - Pre/post market price reaction to earnings
 - Crypto earnings or non-public companies
+
+> **Disclaimer:** See [DISCLAIMER.md](./DISCLAIMER.md) for legal notices.
